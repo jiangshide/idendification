@@ -44,6 +44,11 @@ import "idendification/core"
 	9.1.1.区块链能够安全可靠的存储交易结果
 	9.1.2.在区块链中，交易一旦被创建，就没有任何人能够再去修改或删除
 	9.1.3.交易由一些输入(input)和输出(output)组合而来
+
+	区块链的Go语言的开源项目
+	1.Go Ethereum 是官方使用Go语言实现的以太坊协议
+	2.金融领域的区块链项目Chain
+	3.Hyperledger Fabric:基于区块链的开源分布式	账本
  */
 func main() {
 	//bc := core.NewBlockChain()
